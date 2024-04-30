@@ -9,6 +9,6 @@ It uses Pytorch to implement code, so you can run it like the following (you can
 ## Some things about my code
 As a junior, I've coded this paper for my project at university. However, this paper is too hard for me to implement from scratch. Fortunately, I found the source of the paper's authors at link: https://github.com/OptMLGroup/VRP-RL, and the other source at link: https://github.com/ajayn1997/RL-VRP-PtrNtwrk. I want to show my gratitude to the owners of those.
 
-I also have modified some code to suit my project that it can load data and train follow my input file, and I've just executed this code for vrp with 10 locations. By using Google Colab to run code in 5 epochs during about 1h30m, I got the quit good result.
+I also have modified some code to suit my project that it can load data and train follow my input file, and I've just executed this code for vrp with 10 locations. By using Google Colab to run code in 5 epochs during about 1h30m, I got the quite good result.
 
 ## Thank you for reading!
